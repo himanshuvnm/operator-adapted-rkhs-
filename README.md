@@ -29,9 +29,9 @@ operator.
 
 For a finite-dimensional representation
 
-\[
+$$
 \mathcal V = \operatorname{span}\{\psi_1,\ldots,\psi_m\},
-\]
+$$
 
 with operator matrix \(M\), an RKHS geometry induced by
 \(G \succ 0\) makes the operator isometric precisely when
