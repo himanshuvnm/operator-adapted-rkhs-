@@ -48,7 +48,7 @@ Under the original geometry, applying the operator changes many pairwise kernel 
 **(d) The operator-adapted Gaussian restores invariance.**  
 After incorporating the invariant geometry into the Gaussian kernel, the pairwise discrepancies collapse to numerical precision, with an error of approximately **1.12 × 10⁻¹⁵**.
 
-Taken together, the four panels demonstrate the main message of the paper: **an operator can be spectrally stable while still strongly distorting the geometry of a representation space. Instead of changing the operator, we can change the RKHS geometry so that the same dynamics become structure-preserving.**
+In conclusion, the four panels demonstrate the main message of the paper, that is, **an operator can be spectrally stable while still strongly distorting the geometry of a representation space. Instead of changing the operator, we can change the RKHS geometry so that the same dynamics become structure-preserving.**
 
 ---
 
