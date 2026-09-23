@@ -16,6 +16,8 @@ University Park, PA 16802
 
 **Accepted at The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026)**
 
+**MSC - 46-XX, 47B34, 37-XX, 68Txx**
+
 ---
 
 ## Overview
