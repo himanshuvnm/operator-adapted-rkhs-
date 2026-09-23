@@ -14,13 +14,13 @@ College of Earth and Mineral Sciences<br>
 The Pennsylvania State University<br>
 University Park, PA 16802
 
-**Accepted at NeurIPS 2026 — GlobalSouthAI**
+**Accepted at The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026)**
 
 ---
 
 ## Overview
 
-Representation learning typically begins by choosing or learning a geometry and then studying how transformations behave within that representation space. This work considers the inverse problem: **given an operator, can we construct an RKHS geometry in which that operator exactly preserves the representation structure?**
+Representation learning typically begins by choosing or learning a geometry and then studying how transformations behave within that representation space. Our present work considers the inverse problem given as **given an operator, can we construct an reproducing kernel Hilbert space (RKHS) geometry in which that (linear) operator exactly preserves the representation structure?**
 
 We develop a finite-dimensional theory of **operator-adapted reproducing kernel geometries**. The results characterize precisely when such an invariant geometry exists and describe the complete family of reproducing kernels that realize it. A key consequence is that an operator need not be unitary in its original geometry to become unitary after an appropriate change of RKHS geometry.
 
