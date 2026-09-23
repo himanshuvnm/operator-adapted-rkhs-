@@ -9,13 +9,10 @@ Official repository accompanying:
 ## Operator-Adapted Reproducing Kernel Geometries for Structure-Preserving Representation Learning
 
 **Himanshu Singh**  
-Department of Meteorology and Atmospheric Science 
-
-College of Earth and Mineral Sciences
-
+Department of Meteorology and Atmospheric Science<br>
+College of Earth and Mineral Sciences<br>
+The Pennsylvania State University<br>
 University Park, PA 16802
-
-The Pennsylvania State University
 
 **Accepted at NeurIPS 2026 — GlobalSouthAI**
 
