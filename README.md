@@ -59,7 +59,7 @@ In conclusion, the four panels demonstrate the main message of the paper, that i
 Himanshu Singh  
 The Pennsylvania State University
 
-**NeurIPS 2026 — GlobalSouthAI**
+**The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026) — GlobalSouthAI**
 
 The paper develops the existence and classification theory for operator-adapted RKHS geometries and demonstrates the construction through an operator-adapted Gaussian kernel.
 
