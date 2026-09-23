@@ -42,10 +42,10 @@ The original operator has its eigenvalues on the unit circle. The operator adapt
 **(b) Spectral stability does not imply geometric invariance.**  
 Although the eigenvalues lie on the unit circle, the singular values of the original operator differ substantially from one. The operator is therefore not an isometry in the original Euclidean geometry. After adapting the geometry, all singular values collapse to one, showing that the same operator becomes exactly unitary in the adapted representation.
 
-**(c) The standard Gaussian kernel does not preserve similarity.**  
+**(c) The standard Gaussian RBF kernel does not preserve similarity.**  
 Under the original geometry, applying the operator changes many pairwise kernel similarities. The resulting invariance-error map therefore contains substantial structure, with a normalized error of approximately **0.561**.
 
-**(d) The operator-adapted Gaussian restores invariance.**  
+**(d) The operator-adapted Gaussian RBF restores invariance.**  
 After incorporating the invariant geometry into the Gaussian kernel, the pairwise discrepancies collapse to numerical precision, with an error of approximately **1.12 × 10⁻¹⁵**.
 
 In conclusion, the four panels demonstrate the main message of the paper, that is, **an operator can be spectrally stable while still strongly distorting the geometry of a representation space. Instead of changing the operator, we can change the RKHS geometry so that the same dynamics become structure-preserving.**
