@@ -10,8 +10,11 @@ Official repository accompanying:
 
 **Himanshu Singh**  
 Department of Meteorology and Atmospheric Science 
+
 College of Earth and Mineral Sciences
+
 University Park, PA 16802
+
 The Pennsylvania State University
 
 **Accepted at NeurIPS 2026 — GlobalSouthAI**
