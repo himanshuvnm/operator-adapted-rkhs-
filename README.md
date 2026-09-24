@@ -95,7 +95,7 @@ If you find this work useful, please cite:
                Structure-Preserving Representation Learning},
   author    = {Singh, Himanshu},
   booktitle = {NeurIPS 2026 GlobalSouthAI},
-  year      = {2026}
+  year      = {September 2026}
 }
 ```
 
