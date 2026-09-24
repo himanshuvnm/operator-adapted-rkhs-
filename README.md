@@ -67,6 +67,24 @@ The paper develops the existence and classification theory for operator-adapted 
 
 ---
 
+## 💬 Review Highlights
+
+The paper was accepted at **GlobalSouthAI @ NeurIPS 2026** following peer review.
+
+> **“Excellent idea, theoretical arguments, and derivations.”**  
+> — Program Chairs, GlobalSouthAI @ NeurIPS 2026
+
+> **“The paper's idea is simple yet novel, breaking away from conventional thinking.”**  
+> — Reviewer HFTU
+
+> **“The main characterization and classification are clear and useful.”**  
+> — Reviewer ApH1
+
+The reviews particularly highlighted the inverse perspective of the work — fixing the operator and constructing the geometry — together with the theoretical characterization and the operator-adapted Gaussian construction.
+
+
+---
+
 ## Citation
 
 If you find this work useful, please cite:
